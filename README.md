@@ -1,3 +1,5 @@
+![github_header]()
+
 ### Hi there! 👋
 ---
 My name is **Blake McMeekin** and I'm a Data Scientist. Before that I managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also started a company, [Alterity.Design](alterity.design), which procedurally generates consumer products like lamps and jewelry.
