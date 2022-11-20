@@ -1,4 +1,4 @@
-![Header of two citation networks from academic journals](https://github.com/thegrandblooms/thegrandblooms/blob/816c9180e3dc8267a6235358db051014be5174a7/GitHub_Header.jpg)
+![Header of two citation networks from academic journals](https://github.com/thegrandblooms/thegrandblooms/blob/79438adbb8eca30c52230ad8a2aecf83ff3e77c2/GitHub_Header_2.jpg)
 
 ### Hi there! 👋
 ---
