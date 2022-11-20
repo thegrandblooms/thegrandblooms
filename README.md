@@ -1,4 +1,4 @@
-![github_header]()
+![Header of two citation networks from academic journals](https://github.com/thegrandblooms/thegrandblooms/blob/816c9180e3dc8267a6235358db051014be5174a7/GitHub_Header.jpg)
 
 ### Hi there! 👋
 ---
