@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 ---
-My name is **Blake McMeekin** and I'm a Data Scientist. Before that I managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also started a company, [Alterity.Design](alterity.design), which procedurally generates consumer products like lamps and jewelry.
+My name is **Blake McMeekin** and I'm a Data Scientist. Before that I managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
 
 I became a Data Scientist after listening to lectures by researchers like Jürgen Schmidhuber and Demis Hassabis, reading a textbook about the Science of Science, and watching the breakthroughs coming from OpenAi and Deepmind. It felt clear that Data Science will only become more important over the coming decades, and shortly after I graduated from Flatiron's Data Science program.
 
@@ -16,7 +16,7 @@ I am a deeply curious person at heart. I love to learn what reality is, how ever
 - 🤔 I’m looking for help finding some entry-level Data Science work - any referrals deeply appreciated!
 - 💬 Ask me about Machine Learning, Complex Systems, or design...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I invented a microscope! Check it out [here](alterity.design/projection-microscope).
+- ⚡ Fun fact: I invented a microscope! Check it out [here](https://www.alterity.design/projection-microscope).
 
 ### Connect with me:
 <a href="https://github.com/thegrandblooms" target="_blank">
