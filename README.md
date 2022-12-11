@@ -13,7 +13,7 @@ I am a deeply curious person at heart. I love to learn what reality is, how ever
 - 🔭 I’m currently working on citation network analysis of academic or patent databases.
 - 🌱 I’m currently learning more about Graph Neural Networks.
 - 👯 I’m open to collaborate on data projects generally, but especially those working with NLP or science of science.
-- 🤔 I’m looking for help finding Data Science work - any referrals appreciated!
+- 🤔 I’m looking for some remote work - referrals appreciated :-)
 - 💬 Ask me about Machine Learning, Complex Systems, or design...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I invented a microscope! Check it out [here](https://www.alterity.design/projection-microscope).
