@@ -2,16 +2,16 @@
 
 ### Hi there! 👋
 ---
-My name is **Blake McMeekin** and I'm a Data Scientist. Before that I managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
+My name is **Blake McMeekin** and I'm a Data Scientist and product designer. I've managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also worked at a startup analytics agency called Source Medium. I also started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
 
-I became a Data Scientist after listening to lectures by researchers like Jürgen Schmidhuber and Demis Hassabis, reading a textbook about the Science of Science, and watching the breakthroughs coming from OpenAi and Deepmind. It felt clear that Data Science will only become more important over the coming decades, and shortly after I graduated from Flatiron's Data Science program.
+I became a Data Scientist after studying complex systems analysis for a few years, listening to lectures by AI researchers like Jürgen Schmidhuber and Demis Hassabis, reading a textbook about the Science of Science, and watching the breakthroughs coming from OpenAi and others. It felt good to learn more about Data work to help ground my interestes in complexity research. I onboarded into data work through Flatiron's Data Science & machine learning program.
 
 I am a deeply curious person at heart. I love to learn what reality is, how everything fits together, to use that understanding to make the world a better place, and to share that curiosity with others through teaching and learning. I work best in curious, highly-motivated environments with teams who believe in what they do and take pride in their work.
 
 ### What I'm up to:
 
-- 🔭 I’m currently working as an analyst at Source Medium.
-- 🌱 I’m currently learning more about Graph Neural Networks and .
+- 🔭 I’m currently working as an independent designer and taking a break from Data work!
+- 🌱 I’m currently learning about optical systems design & product distribution systems
 - 👯 I’m open to collaborate on data projects generally, but especially those working with NLP or science of science.
 - 🤔 I’m looking for side contracts and interesting open-source projects...
 - 💬 Ask me about Machine Learning, Complex Systems, or design...
