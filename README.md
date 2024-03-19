@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 ---
-My name is **Blake McMeekin** and I'm a Data Scientist and product designer. I've managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also worked at a startup analytics agency called Source Medium. I also started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
+My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I've managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also worked at a startup analytics agency called Source Medium. I also started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
 
 I became a Data Scientist after studying complex systems analysis for a few years, listening to lectures by AI researchers like Jürgen Schmidhuber and Demis Hassabis, reading a textbook about the Science of Science, and watching the breakthroughs coming from OpenAi and others. It felt good to learn more about Data work to help ground my interestes in complexity research. I onboarded into data work through Flatiron's Data Science & machine learning program.
 
