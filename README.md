@@ -6,9 +6,9 @@ My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I'v
 
 ### What I'm up to:
 
-- 🔭 I’m currently working as an independent designer and taking a break from Data work!
-- 🌱 I’m currently learning about optical systems design & product distribution systems
-- 👯 I’m open to collaborate on data projects generally, but especially those working with NLP or science of science.
+- 🔭 I’m working as an independent designer and taking a break from Data work!
+- 🌱 I’m learning about optical systems design & distribution systems
+- 👯 I’m open to collaborate on data projects generally, but especially those working with complex systems or science of science.
 - 🤔 I’m looking for side contracts and interesting open-source projects...
 - 💬 Ask me about Machine Learning, Complex Systems, or design...
 - 😄 Pronouns: He/Him
