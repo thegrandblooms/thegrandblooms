@@ -1,12 +1,8 @@
 ![Header of two citation networks from academic journals](https://github.com/thegrandblooms/thegrandblooms/blob/79438adbb8eca30c52230ad8a2aecf83ff3e77c2/GitHub_Header_2.jpg)
 
-### Hi there! 👋
+### Hello! 👋
 ---
-My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I've managed prototyping labs in small businesses for about ten years, doing 3D printing and laser fabrication to develop and test new products. I also worked at a startup analytics agency called Source Medium. I also started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
-
-I became a Data Scientist after studying complex systems analysis for a few years, listening to lectures by AI researchers like Jürgen Schmidhuber and Demis Hassabis, reading a textbook about the Science of Science, and watching the breakthroughs coming from OpenAi and others. It felt good to learn more about Data and machine learning to help ground my interestes in complexity research & explore intersections with physical product design. I onboarded into data work through Flatiron's Data Science & machine learning program.
-
-I am a deeply curious person at heart. I love to learn what reality is, how everything fits together, to use that understanding to make the world a better place, and to share that curiosity with others through teaching and learning. I work best in curious, highly-motivated environments with teams who believe in what they do and take pride in their work.
+My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I've managed prototyping labs in small businesses for about ten years, setting up 3D printing and prototyping labs to develop and test new products. I also worked at a startup analytics agency called Source Medium. I started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
 
 ### What I'm up to:
 
