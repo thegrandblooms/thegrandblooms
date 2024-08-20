@@ -2,7 +2,7 @@
 
 ### Hello! 👋
 ---
-My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I've managed prototyping labs in small businesses for about ten years, setting up 3D printing and prototyping labs to develop and test new products. I also worked at a startup analytics agency called Source Medium. I started a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry.
+My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I studied Machine Learning and worked at a startup analytics agency called Source Medium. I started and run a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry. Before all this I managed prototyping labs in small businesses for about ten years, setting up fabrication labs to develop and test new products.
 
 ### What I'm up to:
 
