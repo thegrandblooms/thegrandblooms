@@ -7,12 +7,12 @@ My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I s
 ### What I'm up to:
 
 - 🔭 I’ve been working as an independent designer and engineer!
-- 🌱 I’m learning about mappign semantic dimensions and meaning extraction from text
+- 🌱 I’m mapping semantic dimensions and extracting meaning from text
 - 👯 I’m open to collaborate on data projects generally, but especially those working with complex systems and language processing.
 - 🤔 I’m looking for side contracts and interesting open-source projects...
 - 💬 Ask me about Machine Learning, Complex Systems, or design...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I invented a microscope! Check it out [here](https://www.alterity.design/projection-microscope).
+- ⚡ Fun fact: I invented a microscope! Check it out and make one [here](https://www.alterity.design/projection-microscope).
 
 ### Connect with me:
 <a href="https://github.com/thegrandblooms" target="_blank">
