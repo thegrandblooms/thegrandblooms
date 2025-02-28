@@ -2,7 +2,7 @@
 
 ### Hello! 👋
 ---
-My name is **Blake McMeekin** and I'm a data scientist, product designer, and prototyping generalist. I studied Machine Learning and worked at an analytics agency called Source Medium that managed data for over 100 companies like Clif Bar, Dr. Bronners, Olipop, etc. I started and run a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry. Before all this I managed prototyping labs in small businesses for about ten years, setting up fabrication labs to develop and test new products.
+My name is **Blake McMeekin** and I'm a data scientist, product designer, and prototyping generalist. I studied Machine Learning and worked at an analytics agency called Source Medium that managed data for over 100 companies like Clif Bar, Dr. Bronners, Olipop, etc. I started and run a company, [Alterity.Design](https://www.alterity.design/), which procedurally generates consumer products like lamps and jewelry. Before all that I managed prototyping labs in small businesses for about ten years, setting up fabrication labs to develop and test new products.
 
 ### What I'm up to:
 
