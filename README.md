@@ -8,9 +8,9 @@ My name is **Blake McMeekin** and I'm a Data Scientist and Product Designer. I s
 
 - 🔭 I’ve been working as a freelance product designer and engineer, and making jewelry commissions!
 - 🌱 I’m mapping semantic dimensions and extracting meaning from text
-- 👯 I’m open to collaborate on data projects generally, but especially those working with complex systems and language processing.
+- 👯 I’m open to collaborate on data projects generally, but especially those working with complex systems sciences and semantic processing.
 - 🤔 I’m looking for side contracts and interesting open-source projects...
-- 💬 Ask me about Machine Learning, Complex Systems, or design...
+- 💬 Ask me about AI, Complex Systems, or Design!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I invented a microscope! Check it out and make one [here](https://www.alterity.design/projection-microscope).
 
