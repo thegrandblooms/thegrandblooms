@@ -12,4 +12,4 @@ My name is **Blake McMeekin** and I'm a data scientist, product designer, and pr
 - 🤔 I’m looking for side contracts and interesting open-source projects...
 - 💬 Ask me about AI, Complex Systems, or Design
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I invented a microscope! Check it out and make one [here](https://www.alterity.design/projection-microscope).
+- ⚡ Fun fact: I made a new format of microscope! Check it out and make one [here](https://www.alterity.design/projection-microscope).
