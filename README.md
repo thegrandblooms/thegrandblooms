@@ -6,7 +6,7 @@ My name is **Blake McMeekin** and I'm a data scientist, product designer, and pr
 
 ### What I'm up to:
 
-- 🔭 I’ve been working as a freelance designer and engineer, and making jewelry commissions
+- 🔭 I’ve been working as a freelance designer and engineer, making jewelry commissions, pen-testing tools, and metal 3D printing systems
 - 🌱 Lately I've been developing open-source hyperspectral systems
 - 👯 I’m open to collaborate on data projects working with complex systems sciences and semantic processing.
 - 🤔 I’m looking for side contracts and interesting open-source projects...
